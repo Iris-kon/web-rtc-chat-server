@@ -6,7 +6,6 @@ A Study project made for traning the developement of a aplication With Node for 
 The project utilises the following technologies:
 <ul>
   <li>Node js</li>
-  <li>WebRTC</li>
   <li>TypeScript</li>
   <li>Express</li>
   <li>Socket io</li>
